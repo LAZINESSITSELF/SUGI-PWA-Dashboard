@@ -16,31 +16,36 @@ Aplikasi Progressive Web App (PWA) dashboard mobile untuk monitoring dan manajem
 ## � Screenshots
 
 ### Home - Dashboard Utama
+
 ![Home Dashboard](./screenshots/home.png)
 
 Halaman utama menampilkan overview sistem dan navigasi ke berbagai fitur utama.
 
 ### Analitik Petani
+
 ![Analitik Petani](./screenshots/analitik_petani.png)
 
 Dashboard analitik khusus untuk monitoring data dan metrik petani, meliputi produktivitas dan status kesehatan ternak.
 
 ### Analitik Pemerintah
+
 ![Analitik Pemerintah](./screenshots/analitik_pemerintah.png)
 
 Dashboard tingkat pemerintah untuk monitoring ketahanan pangan nasional dan data agregat operasional.
 
 ### Operasi Lapangan
+
 ![Operasi Lapangan](./screenshots/operasi_lapangan.png)
 
 Interface untuk monitoring dan manajemen operasional di lapangan secara real-time.
 
 ### Chatbot
+
 ![Chatbot](./screenshots/chatbot.png)
 
 Fitur chatbot untuk membantu pengguna dengan pertanyaan dan support real-time.
 
-## �🛠️ Tech Stack
+## ��️ Tech Stack
 
 - **Frontend Framework**: React 19.2.4
 - **Build Tool**: Vite 8.0.1
@@ -189,19 +194,11 @@ npm run preview
 3. Push ke branch: `git push origin feature/nama-fitur`
 4. Buat Pull Request
 
-## 📄 License
-
-MIT License - Silakan lihat file LICENSE untuk detail
 
 ## 👥 Author
 
 SUGI BI Team - Digdaya Digital
 
-## 📞 Support
-
-Untuk pertanyaan atau issues, silakan buat issue di repository ini atau hubungi tim development.
-
----
 
 **Last Updated**: June 2026
 **Version**: 0.1.0
