@@ -197,7 +197,7 @@ npm run preview
 
 ## 👥 Author
 
-SUGI BUTeam - Digdaya Digital
+SUGI BUTeam
 
 
 **Last Updated**: June 2026
