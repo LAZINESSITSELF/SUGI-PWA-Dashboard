@@ -1,0 +1,19 @@
+{
+  "name": "SUGI Mobile Dashboard",
+  "short_name": "SUGI Mobile",
+  "description": "Mobile PWA untuk monitoring pangan, petani, siklus, UM, dan data SUGI.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fdfdfd",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/pwa-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
